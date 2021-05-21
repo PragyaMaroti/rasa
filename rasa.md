@@ -6,7 +6,7 @@ press on get started, shows the available resources:
 - youtube video series link with installation guide
 - e-book for reference
 
-the videos give instruction for installation, but if **for windows** if any problem is faced while installation, try using the three commands:
+the videos give instruction for installation, but  **for windows** if any problem is faced while installation, try using the three commands:
 - pip3 install --user pip
 - pip install rasa --user
 - python -m rasa init
